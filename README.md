@@ -1,5 +1,9 @@
 # Project Planning for FIS Automation Project
 
+The Fisheries Statistics Division (FSD) of the SEFSC provides fishery data to a number of regional and national partners, NMFS offices, and stock assessment analysts each year. The SEFSC is currently undergoing a multi-year effort to increase the throughput of data required for stock assessments through the standardization of data inputs and the timeliness by which they are accessed. Processing the data for stock assessments or management is often time-consuming and produced individualistically. Standardizing and automating the compilation and delivery of data to assessment scientists and resource managers will remove inconsistencies, reduce excess processing and create highly repeatable, standard datasets for a multitude of uses. 
+
+To date, this project has successfully completed the development of many commercial fishery-dependent standardized data extractions and ancillary data products such as translation tables to automate data delivery. Our work will develop a user-friendly, secure web application that will allow analysts and managers to generate and access data in a timely and consistent manner. A repository component will increase transparency and allow users to regenerate past queried parameters to promote continuity and reproducibility.
+
 **Current Team Members:** Sarina Atkinson, Sydney Alhale, Sandra Aguilar (CIMAS)
 
 **Past Team Members:** Allison Shideler, Brett Pierce, Alex Smith (CIMAS)
